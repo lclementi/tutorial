@@ -3,13 +3,17 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to rocks-tutorials's documentation!
-===========================================
+Welcome to Rocks Cluster Tutorials
+==================================
+
+This is the list of tutorial available for the `Rocks Cluster Toolkit <http://www.rocksclusters.org>`_.
 
 Contents:
 
 .. toctree::
    :maxdepth: 2
+
+   home_folder
 
 
 
